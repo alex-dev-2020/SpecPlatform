@@ -17,3 +17,4 @@
 - [Добавлены ПАРАМЕТРЫ Запроса: Момент Времени & Вид Номенклатуры](https://github.com/alex-dev-2020/SpecPlatform/commit/2062e9c23a4df213583210fd65eeac6d7d1861ea)  -  `Склад` & `Ссылка` - получаем из текущего Документа
 - [Обход результата : проверяем что в Документе НЕ БОЛЬШЕ чем на остатке, выводим сообщение = > "чего  не  хватает/сколько есть" ](https://github.com/alex-dev-2020/SpecPlatform/commit/49c7e0903c84ba55d536ac2fa053e047927bd438) 
 - [Реализовано ВСЕ, кроме настроек Блокировок](https://github.com/alex-dev-2020/SpecPlatform/commit/a25c4a3c65963f7d1a2b7a80e78141b5286f6aff)
+- [Настроены Блокировки](https://github.com/alex-dev-2020/SpecPlatform/commit/299f9cf5da83179c0b5a55be455c626bca7d3497) 
