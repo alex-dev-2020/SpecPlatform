@@ -13,4 +13,5 @@
 - [Шаблон обработки проведения](https://github.com/alex-dev-2020/SpecPlatform/commit/d4f1639dc57a08cde12ead1bea283390e74f24ea) -  1-я итерация Конструктор Движений
 - [Пишем ПУСТОЙ набор Движений по Регистру](https://github.com/alex-dev-2020/SpecPlatform/commit/2a3442d08d8a22feafd2f7134edad68b7b569c44) -  1-й п. Старой  Методики Проведения
 - [Добавляем & Комментим код блокировки](https://github.com/alex-dev-2020/SpecPlatform/commit/12a868f56404121d74138c36b20c2d297b86eb52) -  Синтакс-помощник `БлокировкаДанных (DataLock)`
+- [Добавлен ТЕКСТ Запроса в обработку проведения](https://github.com/alex-dev-2020/SpecPlatform/commit/eafafca818524c5004166667e227010634755d7b) -  нет параметров Запроса & Обхода результата
 
