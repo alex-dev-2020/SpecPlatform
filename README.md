@@ -18,3 +18,8 @@
 - [Обход результата : проверяем что в Документе НЕ БОЛЬШЕ чем на остатке, выводим сообщение = > "чего  не  хватает/сколько есть" ](https://github.com/alex-dev-2020/SpecPlatform/commit/49c7e0903c84ba55d536ac2fa053e047927bd438) 
 - [Реализовано ВСЕ, кроме настроек Блокировок](https://github.com/alex-dev-2020/SpecPlatform/commit/a25c4a3c65963f7d1a2b7a80e78141b5286f6aff)
 - [Настроены Блокировки](https://github.com/alex-dev-2020/SpecPlatform/commit/299f9cf5da83179c0b5a55be455c626bca7d3497) 
+
+
+#### Задача в класе № 2  (ТОЛЬКО Количественный Учет) 
+
+- [Приходная накладная - обработка проведения](https://github.com/alex-dev-2020/SpecPlatform/commit/3fc4e6b1b7ffcc69b7e63e6841ec0fdc68b9e5b9) - Свертка Дублей Номенклатуры ТЧ 
