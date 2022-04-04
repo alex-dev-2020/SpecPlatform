@@ -13,4 +13,6 @@
 
 - [1-я итерация](https://github.com/alex-dev-2020/SpecPlatform/commit/c362a059d836bf605f194c628f61fb95631d3d81) - пересчет Поля `Сумма` ТЧ
 
+- [2-я итерация](https://github.com/alex-dev-2020/SpecPlatform/commit/3a663312a7eb725f67d179398cad7c9e6d42d839) - общий фрагмент кода вынесен в процедуру `ПересчетСтроки` 
+
 
