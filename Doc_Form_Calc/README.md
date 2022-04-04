@@ -17,7 +17,9 @@
 
 - [3-я итерация](https://github.com/alex-dev-2020/SpecPlatform/commit/10fec37ae7e22aec0b375325494fb4a3617bc089) - добавлен перерасчет при `При Изменении` Поля Сумма по строке ТЧ 
 
-- [альтернативный Способ расчета](https://github.com/alex-dev-2020/SpecPlatform/commit/c8a7a0bad46d57c96b4c0e2b25738c6c023d2dcf) - перерасчет при `При Изменении` Поля Сумма по строке 
+- [альтернативный способ расчета](https://github.com/alex-dev-2020/SpecPlatform/commit/c8a7a0bad46d57c96b4c0e2b25738c6c023d2dcf) - перерасчет при `При Изменении` Поля Сумма по строке 
+
+- [4-я итерация](https://github.com/alex-dev-2020/SpecPlatform/commit/81f4b8c4e39af9ed0773bfe47c5d8a594aad7d5c) - добавлен расчет Суммы по Документу
 
 
 
