@@ -21,5 +21,7 @@
 
 - [4-я итерация](https://github.com/alex-dev-2020/SpecPlatform/commit/81f4b8c4e39af9ed0773bfe47c5d8a594aad7d5c) - добавлен расчет Суммы по Документу
 
+- [5-я итерация](https://github.com/alex-dev-2020/SpecPlatform/commit/d19a85e0a156795381580b04d58544a01fe93a59) - фрагмент кода вынесен в процедуру `ПересчетСтроки` Общего Модуля `ОбщегоНазначения` 
+
 
 
