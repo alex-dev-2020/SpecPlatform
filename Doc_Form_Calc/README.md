@@ -15,4 +15,7 @@
 
 - [2-я итерация](https://github.com/alex-dev-2020/SpecPlatform/commit/3a663312a7eb725f67d179398cad7c9e6d42d839) - общий фрагмент кода вынесен в процедуру `ПересчетСтроки` 
 
+- [3-я итерация](https://github.com/alex-dev-2020/SpecPlatform/commit/10fec37ae7e22aec0b375325494fb4a3617bc089) - добавлен перерасчет при `При Изменении` Поля Сумма по строке ТЧ 
+
+
 
