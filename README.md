@@ -24,3 +24,8 @@
 
 - [Приходная накладная - обработка проведения](https://github.com/alex-dev-2020/SpecPlatform/commit/3fc4e6b1b7ffcc69b7e63e6841ec0fdc68b9e5b9) - Свертка Дублей Номенклатуры ТЧ 
 - [Расходная накладная - обработка проведения](https://github.com/alex-dev-2020/SpecPlatform/commit/a8a7c33f8f8796b0ac56e957858e0c5215dbcd88) - Новая Методика Проведения *БЕЗ Контроля Услуг/Дублей Номенклатуры ТЧ*
+
+
+####  Билет № 6 
+
+[README](https://github.com/alex-dev-2020/SpecPlatform/blob/master/Ex_Ticket_6/README.md)
