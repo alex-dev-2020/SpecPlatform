@@ -28,7 +28,7 @@
 
 ####  Билет № 6 
 
-- [Перерасчет Сумм ТЧ Документов Поступления/Реализации](https://github.com/alex-dev-2020/SpecPlatform/commit/f0ea8fdd5b8b8c643e0a69783e1987403d524c8f) README
+- [Перерасчет Сумм ТЧ Документов Поступления/Реализации](https://github.com/alex-dev-2020/SpecPlatform/blob/master/Doc_Form_Calc/README.md) README
 
 [README](https://github.com/alex-dev-2020/SpecPlatform/blob/master/Ex_Ticket_6/README.md)
 
