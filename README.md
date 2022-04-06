@@ -30,5 +30,5 @@
 
 - [Перерасчет Сумм ТЧ Документов Поступления/Реализации](https://github.com/alex-dev-2020/SpecPlatform/blob/master/Doc_Form_Calc/README.md) README
 
-[README](https://github.com/alex-dev-2020/SpecPlatform/blob/master/Ex_Ticket_6/README.md)
+- [README](https://github.com/alex-dev-2020/SpecPlatform/blob/master/Ex_Ticket_6/README.md) - **ОУ** : Уникальность Комплектующих + Отчет(*Характеристики*)
 
