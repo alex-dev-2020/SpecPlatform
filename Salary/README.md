@@ -5,4 +5,4 @@
 Документ  Начисление Зарплаты
 
 
-- [исходник](https://github.com/alex-dev-2020/SpecPlatform/commit/ae70d0d1ea1fe81f6a08030c2b4c35cf30c1f006) - Движения Сформированы Конструктором
+- [исходник](https://github.com/alex-dev-2020/SpecPlatform/commit/ca9b40b88485f1c16c6e47e2c399a1f0febf0fd5) - Движения Сформированы Конструктором
