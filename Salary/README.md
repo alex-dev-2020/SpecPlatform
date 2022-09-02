@@ -20,3 +20,7 @@
 - [Добавлен Реквизит РР "Основные  Начисления" `ОтработаноРеквизит`](https://github.com/alex-dev-2020/SpecPlatform/commit/255678720b25dd92d700d13215f6b01e2d201e08) -  *см предыдущий коммит*
 
 - [Добавлен Расчет Премии](https://github.com/alex-dev-2020/SpecPlatform/commit/0eab8bd7eed1a24596d3e2de005a00c5aecf9884) -  Оклад * % / 100
+
+- [Добавлен Расчет Командировки](https://github.com/alex-dev-2020/SpecPlatform/commit/b98d0d84f12d47412d440994ab45006f86f3532e) - Сумма ВСЕХ начислений  / кол-во РАБОЧИХ  часов  (за ДВА предыдущих Месяца)
+
+
