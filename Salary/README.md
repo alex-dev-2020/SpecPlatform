@@ -32,3 +32,5 @@
 
 - [Добавлена Процедура Общего Модуля `РассчитатьНачисления`](https://github.com/alex-dev-2020/SpecPlatform/commit/0850b1680d4373aa59fc0b20e3ad9f3250ba6057) - branch: Перенос-Расчетов-в-Общий-Модуль  
 
+- [Pull Request √ ](https://github.com/alex-dev-2020/SpecPlatform/pull/8) - перенос расчетов в общий модуль
+
