@@ -26,5 +26,5 @@
 
 **Оптимизация процедуры**
 
-- [Вынесены расчеты → будет создана Процедура в Общем Модуле](https://github.com/alex-dev-2020/SpecPlatform/commit/b388226259ea25ec13613ccb1c45a3b060d5a01c) - **new branch** 
+- [Вынесены расчеты → будет создана Процедура в Общем Модуле](https://github.com/alex-dev-2020/SpecPlatform/commit/b388226259ea25ec13613ccb1c45a3b060d5a01c) - **new branch ! ! !** 
 
