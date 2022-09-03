@@ -26,5 +26,7 @@
 
 **Оптимизация процедуры**
 
-- [Вынесены расчеты → будет создана Процедура в Общем Модуле](https://github.com/alex-dev-2020/SpecPlatform/commit/b388226259ea25ec13613ccb1c45a3b060d5a01c) - **new branch ! ! !** 
+- [Вынесены расчеты → будет создана Процедура в Общем Модуле](https://github.com/alex-dev-2020/SpecPlatform/commit/b388226259ea25ec13613ccb1c45a3b060d5a01c) - branch: Перенос-Расчетов-в-Общий-Модуль 
+
+- [Получение Списка Видов Расчета + Вызов Процедуры в Общего Модуля](https://github.com/alex-dev-2020/SpecPlatform/commit/15641ef40e29efa9387d80160f2e16321af74c7a) - branch: Перенос-Расчетов-в-Общий-Модуль  
 
